@@ -1,2 +1,2 @@
-# QTM350_A
+# QTM350_
 For QTM class
